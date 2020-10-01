@@ -1,11 +1,6 @@
-# NYC Early Voting Poll Sites
+# [NYC Early Voting Poll Sites](https://jessica-mendieta.github.io/nyc-early-voting-poll-sites)
 
-
-List of early voting poll sites for the 2020 general election from the [NYC Board of Elections](https://vote.nyc/page/early-voting-information) website.
-
-
-## [Map of Poll Sites for the Early Voting Period](https://jessica-mendieta.github.io/nyc-early-voting-poll-sites)
-The locator tool filters by borough and shows locations closest to the address entered in the search bar. [Verify your poll site](https://findmypollsite.vote.nyc/) for the early voting period and day of the general election.
+Map of early voting poll sites for the 2020 general election obtained from the [NYC Board of Elections](https://vote.nyc/page/early-voting-information) website. The locator tool filters by borough and shows the closest site to the address entered in the search bar. Be sure to [verify your poll site](https://findmypollsite.vote.nyc/) for the early voting period and day of the general election.
 
 
 #### Early Voting Period for the **Tuesday, November 3 General Election**:
