@@ -37,7 +37,7 @@
 .listings .item .title {
     display: inline-block;
     width: 100%;
-    color: #2A395F;
+    color: #281B59;
     font-weight: 800;
     margin-top: 5px;
     text-decoration: none;
@@ -74,7 +74,7 @@
 }
 
 .mapboxgl-popup-content {
-    font: 400 15px/22px 'Source Sans Pro', 'Helvetica Neue', Sans-serif;
+    font: 400 15px/22px 'Open Sans Regular', 'Helvetica Neue', Sans-serif;
     text-align: center;
     padding: 5;
     width: 180px;
