@@ -433,7 +433,7 @@ map.on("load", function () {
                 },
                 "paint": {
                     "circle-radius": 6, // size of circles
-                    "circle-color": "#D91E0D", // color of circles
+                    "circle-color": "#281B59", // color of circles
                     "circle-stroke-color": "white",
                     "circle-stroke-width": 1,
                     "circle-opacity": 0.7
