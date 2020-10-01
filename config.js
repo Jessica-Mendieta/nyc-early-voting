@@ -1,7 +1,7 @@
 const config = {
     style: "mapbox://styles/mapbox/light-v10",
     accessToken: "pk.eyJ1Ijoiam1lbmRpZXRhIiwiYSI6ImNrN3V6enNrbTA2ODIzZnBlbmZhZDN5azcifQ.cs3hBZjhkgwdHR_m4bD5yQ",
-    CSV: "https://docs.google.com/spreadsheets/d/1ckRR_D1mOhPqYkL_mkFVijyU6jseHJBy922THPt4RFM/edit?usp=sharing",
+    CSV: "https://docs.google.com/spreadsheets/d/1ckRR_D1mOhPqYkL_mkFVijyU6jseHJBy922THPt4RFM/gviz/tq?tqx=out:csv&sheet=Sheet1",
     center: [-73.935242, 40.730610], //Lng, Lat
     zoom: 6, //Default zoom
     title: "Early Voting Poll Sites NYC",
