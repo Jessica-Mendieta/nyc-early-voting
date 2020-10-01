@@ -3,7 +3,7 @@
 }
 
 #filterResults{
-    font-size: 12px;
+    font-size: 10px;
     color: white;
     background-color: #448EE4;
 
@@ -24,7 +24,7 @@
 }
 
 .listings .item {
-    font-size: 14px;
+    font-size: 12px;
     word-wrap: break-word;
     text-decoration: none;
     border-bottom: solid rgb(34, 33, 33, .3) 1px;
@@ -74,7 +74,7 @@
 }
 
 .mapboxgl-popup-content {
-    font: 400 15px/22px 'Open Sans Regular', 'Helvetica Neue', Sans-serif;
+    font: 400 14px/18px 'Open Sans Regular', 'Helvetica Neue', Sans-serif;
     text-align: center;
     padding: 5;
     width: 180px;
