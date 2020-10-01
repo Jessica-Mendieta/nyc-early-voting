@@ -7,7 +7,7 @@ Map of early voting poll sites for the 2020 general election obtained from the [
 </p>
 
 
-#### Early Voting Period for the **Tuesday, November 3 General Election**:
+#### Early Voting Period for the Tuesday, November 3 General Election:
 
 Date | Hours
 -------- | --------
@@ -21,6 +21,19 @@ Friday, October 30, 2020 | 7 AM to 3 PM
 Saturday, October 31, 2020 | 10 AM to 4 PM
 Sunday, November 1, 2020 | 10 AM to 4 PM
 
+
+#### Number of Early Voting Poll Sites and Registered Voters by Borough
+
+Borough	| Locations	| Voters
+--------| ----------| -------
+Manhattan | 16 | 1,209,469
+The Bronx | 17 | 839,176
+Brooklyn | 27 | 1,650,432
+Queens | 18 | 1,297,536
+Staten Island | 10 | 323,437
+**Total** | **88** | **5,320,050** 
+
+*Registered Voters as of February 21, 2020*
 
 #### Voter Registration Deadline and BOE Information
 
