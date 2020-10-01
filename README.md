@@ -2,6 +2,10 @@
 
 Map of early voting poll sites for the 2020 general election obtained from the [NYC Board of Elections](https://vote.nyc/page/early-voting-information) website. The locator tool filters by borough and shows the closest site to the address entered in the search bar. Be sure to [verify your poll site](https://findmypollsite.vote.nyc/) for the early voting period and day of the general election.
 
+<p align="center">
+  <img src="earlyvoting-pollsites.JPG" width="550" height="400">
+</p>
+
 
 #### Early Voting Period for the **Tuesday, November 3 General Election**:
 
@@ -18,7 +22,7 @@ Saturday, October 31, 2020 | 10 AM to 4 PM
 Sunday, November 1, 2020 | 10 AM to 4 PM
 
 
-#### Other Dates and Information
+#### Voter Registration Deadline and BOE Information
 
 **Friday, October 9, 2020: Mail and In Person Voter Registration Deadline**. Applications must be postmarked no later than October 9, 2020 and received by a board of elections no later than October 14, 2020 to be eligible to vote in the General Election. You may register at your local board of elections or any state agency participating in the National Voter Registration Act, on any business day throughout the year but, to be eligible to vote in the General Election, your application must be received no later than October 9, 2020. If honorably discharged from the U.S. Military or have become a naturalized U.S. Citizen after October 9, 2020, you may register in person at the Board of Elections up until October 24, 2020.
 
