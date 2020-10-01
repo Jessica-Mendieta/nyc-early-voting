@@ -3,7 +3,7 @@
 Map of early voting poll sites for the 2020 general election obtained from the [NYC Board of Elections](https://vote.nyc/page/early-voting-information) website. The locator tool filters by borough and shows the closest site to the address entered in the search bar. Be sure to [verify your poll site](https://findmypollsite.vote.nyc/) for the early voting period and day of the general election.
 
 <p align="center">
-  <img src="earlyvoting-pollsites.JPG" width="450" height="300">
+  <img src="earlyvoting-pollsites.JPG">
 </p>
 
 
