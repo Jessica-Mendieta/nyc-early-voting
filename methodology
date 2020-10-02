@@ -1,0 +1,17 @@
+Data Sources
+Early voting poll sites were obtained from the NYC Board of Elections Website and transferred to a Google Sheet with the following columns: name, address, zip code, borough, and coordinates (copied from Google Maps). 
+ 
+Mapbox Tools
+From the Find Locations with Filters Impact Tool Tutorial: 
+-	Text Editor
+-	Mapbox Account, Studio, and GL JS
+-	Csv2geojson
+-	GitHub account
+
+Github Files with the Template Code
+-	Config.js
+-	Index.html
+-	App.js
+-	Style.css
+
+The only filter used was a checkbox for users to select one of more boroughs, and the color of the circles was changed to contrast with the map style, as well as made minor changes to the font size. 
