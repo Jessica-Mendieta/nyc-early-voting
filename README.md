@@ -24,7 +24,7 @@ Sunday, November 1, 2020 | 10 AM to 4 PM
 
 **Number of Early Voting Poll Sites and Registered Voters by Borough**
 
-Borough	| Locations	| Voters
+Borough	| Locations	| Registered Voters
 --------| ----------| -------
 Manhattan | 16 | 1,209,469
 The Bronx | 17 | 839,176
