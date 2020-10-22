@@ -35,6 +35,8 @@ Staten Island | 10 | 323,437 | 32,344
 
 *Registered Voters as of February 21, 2020*
 
+New York State Law recommends one early voting poll site for every 50 thousand registered voters in a county. Based on this information, Manhattan should have 24 sites, The Bronx 17 sites, Brooklyn 33 sites, Queens 30 sites, and Staten Island 7 sites. The Bronx and Staten Island are the only boroughs that meet this condition, while Queens has the biggest gap between recommended and provided early voting poll sites (12).
+
 
 #### Voter Registration Deadline and BOE Information
 
