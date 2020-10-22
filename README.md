@@ -1,4 +1,4 @@
-# [NYC Early Voting Poll Sites](https://jessica-mendieta.github.io/nyc-early-voting-poll-sites)
+# [NYC Early Voting Poll Site Locator](https://jessica-mendieta.github.io/nyc-early-voting-poll-sites)
 
 Map of early voting poll sites for the 2020 general election obtained from the [NYC Board of Elections](https://vote.nyc/page/early-voting-information) website. The locator tool filters by borough and shows the closest site to the address entered in the search bar. Be sure to [verify your poll site](https://findmypollsite.vote.nyc/) for the early voting period and day of the general election.
 
@@ -24,14 +24,14 @@ Sunday, November 1, 2020 | 10 AM to 4 PM
 
 **Number of Early Voting Poll Sites and Registered Voters by Borough**
 
-Borough	| Locations	| Registered Voters
---------| ----------| -------
-Manhattan | 16 | 1,209,469
-The Bronx | 17 | 839,176
-Brooklyn | 27 | 1,650,432
-Queens | 18 | 1,297,536
-Staten Island | 10 | 323,437
-**Total** | **88** | **5,320,050** 
+Borough	| Locations	| Registered Voters | Voters per Site
+--------| ----------| ------- | --------
+Manhattan | 16 | 1,209,469 | 75,592
+The Bronx | 17 | 839,176 | 49,363
+Brooklyn | 27 | 1,650,432 | 61,127
+Queens | 18 | 1,297,536 | 72,085
+Staten Island | 10 | 323,437 | 32,344
+**Total** | **88** | **5,320,050** | **60,455**
 
 *Registered Voters as of February 21, 2020*
 
